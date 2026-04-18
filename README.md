@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Chanchal
 
-<!--
-**Chanchal-Nagwani/Chanchal-Nagwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer | 🚀 Aspiring Full Stack Developer  
+📚 Building Placement Preparation Platform  
 
-Here are some ideas to get you started:
+## 🔥 Skills
+- Python
+- HTML, CSS, JavaScript
+- Flask / Django
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Placement Preparation Platform
+- Sales Data Analysis
+
+## 📫 Contact
+- Email: chanchalnagwani2@gmail.com
